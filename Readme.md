@@ -1,7 +1,7 @@
 # This is my first repository
 
 ## Table of contents
-*
+* https://github.com/Parvin16/sd-training/blob/main/Readme.md#day-0
 
 ## Day 0
 ### Topic - System/Tool Setup Check. GitHub ID creation
