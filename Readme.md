@@ -2,7 +2,6 @@
 
 ## Table of content
 
-[Day 0](https://github.com/Parvin16/sd-training/blob/main/Readme.md#day-0)
 
 
 ## Day 0
